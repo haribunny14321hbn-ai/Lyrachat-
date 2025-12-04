@@ -1,0 +1,7 @@
+{
+  "name": "Lyra Chat",
+  "description": "A personal, multi-model AI companion featuring real-time chat, voice input, image vision, and customizable personas. Supports Gemini, OpenAI, and DeepSeek.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
